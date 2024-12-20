@@ -20,7 +20,7 @@
     "@remix-run/css-bundle": "^2.2.0",
     "@remix-run/react": "^2.2.0",
     "@storybook/addon-postcss": "^2.0.0",
-    "@tailwindcss/typography": "^0.5.9",
+    "@tailwindcss/typography": "^0.5.15",
     "@uidotdev/usehooks": "^2.4.0",
     "classnames": "^2.3.2",
     "isbot": "^3.6.8",
