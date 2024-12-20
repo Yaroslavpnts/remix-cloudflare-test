@@ -1,0 +1,17 @@
+.DS_Store
+node_modules
+.vscode
+
+
+/.cache
+/functions/\[\[path\]\].js
+/functions/\[\[path\]\].js.map
+/functions/metafile.*
+/functions/version.txt
+/public/build
+.dev.vars
+
+metafile.js.json
+metafile.server.json
+.wrangler
+.components.json

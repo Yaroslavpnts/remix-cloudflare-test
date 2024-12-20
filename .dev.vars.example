@@ -1,0 +1,8 @@
+STRAPI_URL=<required | https://siteadmin.yojji.io>
+STRAPI_TOKEN=<required>
+CLIENT_URL=<required | https://127.0.0.1:8789>
+NOINDEX=<optional | 1>
+DEBUG=<optional | 1>
+REMIX_KEY=<optional>
+GTM_KEY=<optional>
+RECAPTCHA_PUBLIC_KEY=<required>
