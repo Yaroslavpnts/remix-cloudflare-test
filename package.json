@@ -43,7 +43,7 @@
     "@storybook/blocks": "^7.6.3",
     "@storybook/react": "^7.6.3",
     "@storybook/react-webpack5": "^7.6.3",
-    "@storybook/test": "^7.6.3",
+    "@storybook/test": "^8.1.11",
     "@types/markdown-it": "^13.0.1",
     "@types/mixpanel-browser": "^2.47.4",
     "@types/qs": "^6.9.8",
